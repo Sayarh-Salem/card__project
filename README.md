@@ -1,5 +1,5 @@
 # CARD DISPLAY
-</br>This is a small project of 10 cards (only html and css) some of theme are responsive and others sadly no 
+</br>This is a small project of 10 cards (only html/css + swiper js) some of theme are responsive and others sadly no 
 </br> (the blur effect isnt supported with firefox )
 </br>1.swiper 3d coverflow effect 
 </br>2.CSS Card with hover animation and mobile fallback
